@@ -1,5 +1,7 @@
 # Random Food API Demo 🍔
 
+**[🔴 Live Demo Available Here!](https://cyber752.github.io/Random-Food-API-Demo/)**
+
 A lightweight, simple demonstration of how to consume a free public REST API using Vanilla JavaScript, HTML, and CSS. 
 
 ## Features
@@ -23,3 +25,6 @@ This project was built to understand:
 2. Handling asynchronous data in JavaScript (`try/catch/finally`).
 3. Navigating JSON objects.
 4. Dynamically updating an HTML `<img>` source based on a network response.
+
+## Tools Used
+- **Code Editor**: Visual Studio Code (VS Code)
